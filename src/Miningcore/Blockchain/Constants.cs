@@ -10,4 +10,5 @@ public static class JobRefreshBy
     public const string BlockTemplateStreamRefresh = "BTS-R";
     public const string WebSocket = "WS";
     public const string BlockFound = "BLOCK";
+    public const string NotifyWork = "NOTIFY-WORK";
 }
